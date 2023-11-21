@@ -1,1 +1,1 @@
-# PlantVillage-Dataset--PD-C---Assignment-1
+# PlantVillage-Dataset--PD&C---Assignment-1
